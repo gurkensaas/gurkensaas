@@ -5,7 +5,7 @@
 * Memory: 8 GB 2133 MHz LPDDR3
 * Graphics: Intel UHD Graphics 617 1536 MB
 * Storage: 128GB
-* OS: Pretty new one.
+* OS: MacOS 12.4 Beta.
 
 ## FAQ:
 
